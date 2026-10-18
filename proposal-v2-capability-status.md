@@ -49,9 +49,9 @@ Capabilities are grouped by status:
 
 ### Needs Clarification
 
-- **Accessibility.** The templates contain very few accessibility attributes, and no accessibility review has been done. The proposal does not name a standard to measure against, such as WCAG 2.1 AA.
+- **Accessibility.** The templates contain very few accessibility attributes, and no accessibility review has been done. 
 
-## Questions to Discuss Before Implementation
+## Questions to Discuss Before Implementation For Clarification
 
 1. What permissions does an administrator have that a coordinator does not?
 2. Can a volunteer belong to more than one organization, and how are events shared between organizations?
